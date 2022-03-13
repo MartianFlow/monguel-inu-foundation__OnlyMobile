@@ -1,0 +1,19 @@
+.product-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.main-tables-container {
+    justify-content: center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+
+.plans-container__slider {
+    justify-content: center;
+}
+
